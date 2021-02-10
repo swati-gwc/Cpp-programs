@@ -36,3 +36,20 @@ int main()
 
     return 0;
 }
+
+/****************************************
+OUPUT:
+Let's practise Multiplication skills!!
+Task: Multiply number and type it's value!
+How many questions you want to answer? (Choose between 1-100): 5
+Let's begin !! Press -1 any time you want to quit!! 
+
+4 * 7 = 28
+18 * 6 = 99
+14 * 6 = 84
+7 * 3 = 21
+10 * 2 = 20
+Your score is 4/5
+You got 1 wrong!!
+Program Ends! 
+****************************************/
