@@ -11,7 +11,7 @@ Note 2: [link] written after question refers to the solution link of the questio
 
 4.	Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
 
-5.	Move all the negative elements to one side of the array 
+5.	Move all the negative elements to one side of the array ([ques](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)) ([soln](https://github.com/swati-gwc/Cpp-programs/blob/master/Love%20Babbar%20450%20ques%20solutions/5_MoveAllNegativeToOnseSideOfArray.cpp))
 
 6.	Find the Union and Intersection of the two sorted arrays.
 
