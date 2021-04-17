@@ -1,6 +1,9 @@
 /*
 AUTHOR: SWATI TRIPATHI
+
 This program is an application of bezier curves. It draws numbers from 1 to 10. It was my open ended project in college for computer graphics in C++ subject. 
+
+Check the output of this program here: [Graphics in Cpp /Output Images /DrawNumbersOutput1.PNG ]  and [Graphics in Cpp/Output Images/DrawNumbersOutput2.PNG]
 */
 #include<graphics.h>
 #include<math.h>
