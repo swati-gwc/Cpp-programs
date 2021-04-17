@@ -20,6 +20,6 @@ In the following list (View) is folder link and (About Me) is readme for that fo
 
 ## My Pinned Websites 
 
-This is just random websites related to C++ that I want to bookmark or maybe revisit in future.
+These are just random websites related to C++ that I want to bookmark or maybe revisit in future.
 1. [Strings in STL](https://www.codesdope.com/cpp-stdstring/)
 
