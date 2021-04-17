@@ -14,7 +14,7 @@ In the following list (View) is folder link and (About Me) is readme for that fo
 6. Graphics ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Graphics%20in%20Cpp))([About Me](https://github.com/swati-gwc/Cpp-programs/blob/master/Graphics%20in%20Cpp/Graphics_ReadMe.md))
 7. Interview Questions ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Interview%20Questions))([About Me](https://github.com/swati-gwc/Cpp-programs/blob/master/Interview%20Questions/InterviewQues_ReadMe.md))
 8. Love Babbar 450 Question-Solutions ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Love%20Babbar%20450%20ques%20solutions))([About Me](https://github.com/swati-gwc/Cpp-programs/blob/master/Love%20Babbar%20450%20ques%20solutions/450Ques_ReadMe.md))
-9. Striver Problem List with Solutions ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Striver%20List%20solutions))([About Me](https://github.com/swati-gwc/Cpp-programs/blob/master/Striver%20List%20solutions/StriverList_ReadMe.md))
+9. Striver Problem List with Solutions ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Striver%20List%20solutions))([About Me](Cpp-programs/Striver List solutions/))
 10. STL: Standard Template Library ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/stl))([About Me](https://github.com/swati-gwc/Cpp-programs/blob/master/stl/STL_ReadMe.md))
 
 
