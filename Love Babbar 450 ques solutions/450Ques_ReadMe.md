@@ -520,8 +520,6 @@ Note 2: [link] written after question refers to the solution link of the questio
 
 253.	Find maximum sum possible equal sum of three stacks
 
-
-
 254.	Rat in a maze Problem
 
 255.	Printing all solutions in N-Queen Problem
@@ -680,7 +678,7 @@ Note 2: [link] written after question refers to the solution link of the questio
 
 329.	Create a Graph, print it
 
-330.	Implement BFS algorithm 
+330.	Implement BFS algorithm ([Ques](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)) ([soln](https://github.com/swati-gwc/Cpp-programs/blob/master/Love%20Babbar%20450%20ques%20solutions/330_ImplementBFS.cpp))
 
 331.	Implement DFS Algo 
 
