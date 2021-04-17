@@ -3,7 +3,7 @@
 ### ABOUT : 
 Watch this video : [take U Forward |  Striver's SDE sheet](https://www.youtube.com/watch?v=WNtzUR_MwUQ)
 
-This is 30 day plan to prepare for interviews. All the list of questions are provided by Striver. You can check his [codeforces account here](https://codeforces.com/profile/striver_79) and his [YouTube here](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig).
+This is 30 day plan to prepare for interviews. All the list of questions are provided by Striver. You can check his [codeforces account here](https://codeforces.com/profile/striver_79) and his [YouTube Channel here](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig).
 
 
 ### My Purpose to create this folder:
