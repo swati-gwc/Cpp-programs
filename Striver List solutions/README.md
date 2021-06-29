@@ -46,9 +46,8 @@ Day4: (Hashing)
 6.	Longest substring without repeat
 
 Day5: (LinkedList)
-1.	Reverse a LinkedList
-2.	Find middle of LinkedList
- 
+1.	Reverse a LinkedList [Solution](https://github.com/swati-gwc/Cpp-programs/blob/master/Striver%20List%20solutions/Day5_1_ReverseLinkedList.cpp)
+2.	Find middle of LinkedList 
 3.	Merge two sorted Linked List
 4.	Remove N-th node from back of LinkedList
 5.	Delete a given Node when a node is given. (0(1) solution)
