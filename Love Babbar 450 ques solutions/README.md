@@ -13,7 +13,7 @@ Note 2: [link] written after question refers to the solution link of the questio
 
 5.	Move all the negative elements to one side of the array ([ques](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)) ([soln](https://github.com/swati-gwc/Cpp-programs/blob/master/Love%20Babbar%20450%20ques%20solutions/5_MoveAllNegativeToOnseSideOfArray.cpp))
 
-6.	Find the Union and Intersection of the two sorted arrays.
+6.	Find the Union and Intersection of the two sorted arrays.([Question](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1))([Solution](https://github.com/swati-gwc/Cpp-programs/blob/master/Love%20Babbar%20450%20ques%20solutions/6_UnionAndIntersectionOfArrays.cpp))
 
 7.	Write a program to cyclically rotate an array by one.
 
