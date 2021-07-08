@@ -7,7 +7,7 @@ In the following list (View) is folder link and (About Me) is readme for that fo
 ## MENU
 
 1. Algorithms ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Algorithms)) ([About Me](Algorithms/))
-2. Arrays ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Arrays)) ([About Me](https://github.com/swati-gwc/Cpp-programs/blob/master/Arrays/Arrays_ReadMe.md))
+2. Arrays ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Arrays)) ([About Me](Arrays/))
 3. Beginner Level Programs ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Beginner%20practise%20programs%20in%20Cpp))([About Me](https://github.com/swati-gwc/Cpp-programs/blob/master/Beginner%20practise%20programs%20in%20Cpp/BeginnerPrograms_ReadMe.md))
 4. Compiler Construction ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Compiler%20Construction))([About Me](https://github.com/swati-gwc/Cpp-programs/blob/master/Compiler%20Construction/CompilerConstruction_ReadMe.md))
 5. Data Structures ([View](https://github.com/swati-gwc/Cpp-programs/tree/master/Data%20Structures))([About Me](https://github.com/swati-gwc/Cpp-programs/blob/master/Data%20Structures/DS_ReadMe.md))
