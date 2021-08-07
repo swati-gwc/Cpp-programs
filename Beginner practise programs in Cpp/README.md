@@ -7,3 +7,4 @@
 5. [Check wether no is Armstrong or not](https://github.com/swati-gwc/Cpp-programs/blob/master/Beginner%20practise%20programs%20in%20Cpp/checkarmstrong.cpp)
 6. [Print Fibonacci Series](https://github.com/swati-gwc/Cpp-programs/blob/master/Beginner%20practise%20programs%20in%20Cpp/fibonacciseries.cpp)
 7. [Print sum of digits](https://github.com/swati-gwc/Cpp-programs/blob/master/Beginner%20practise%20programs%20in%20Cpp/sumofdigits.cpp)
+8. [Print Prime Numbers](https://github.com/swati-gwc/Cpp-programs/blob/master/Beginner%20practise%20programs%20in%20Cpp/PrimeNumber.cpp)
