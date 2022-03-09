@@ -34,13 +34,16 @@ char non_repeating_char(char str[]) {
             return str[i];
         }
     }
+  return -1;
 }
 int main() {
 
 
-    char st[] = "likezbcalike";
-
+    char st[] = "likebzalike";
+    if(non_repeating_char(st) == -1) cout<<"No non-repeating character. ";
+    else
     cout<<non_repeating_char(st)<<" is the first non-repeating character. ";
 
 	return 0;
 }
+
